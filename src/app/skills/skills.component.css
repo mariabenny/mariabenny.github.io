@@ -1,0 +1,38 @@
+.head {
+    background-image: url("http://proxy11.media.online.ua/uol/r2-1ee1d42012/55cd40a1c338c.jpg");
+ background-position: center;
+ background-size: auto;
+ height: 350px;
+ width: 100%;
+ 
+ font-family: Cursive ;
+ }
+ 
+ /* .About {
+ height:  auto;
+ width: 65%;
+ background-color:White;
+ padding:15px;
+   
+ } */
+ 
+ p {
+   
+ 
+     font-family: 'Nunito', sans-serif;
+ 
+ 
+ }
+ 
+ #Languages{
+   width:100%;
+   padding:25px;
+   margin: 25px;
+ }
+ 
+ /* .Contact{
+   padding:25px;
+     
+ }
+  */
+ 

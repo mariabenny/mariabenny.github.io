@@ -1,0 +1,16 @@
+#navbarSupportedContent{
+    float:right;
+}
+
+.collapse navbar-collapse{
+    float:right;
+}
+
+#bg-img{
+    background-color: aqua;
+}
+
+a{
+    color:white;
+    
+}
